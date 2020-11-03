@@ -1,6 +1,6 @@
 # google scholar crawler
 
-Crawling google scholar without banning.
+Crawling google scholar without being blocked by Google.
 this script implemented by python selenium.
 
 ## Usage
